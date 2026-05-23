@@ -1,1 +1,1 @@
-"Link para download dos datasets completos (Imagens e Labels): COLOQUE_AQUI_O_LINK_DO_ZENODO" 
+"Link para download dos datasets completos (Imagens e Labels): https://zenodo.org/records/20358336?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImQ5MTE4OTU1LWI1OGMtNGY5MS1iNDcwLTAwMjJhYjFlN2M3NSIsImRhdGEiOnt9LCJyYW5kb20iOiJmZjhiYzIwNWE1NGQwNWQwZjRhNGQ5NmJlZTg1NmJmOSJ9.z-Ilm9E6MdKfaQW3Zn9-pzSxLC0vXTC8qa-5NTPK5mb4FzJXdcmSBx_QmsWB40NVXk4i3XFjPLy9fZRQP6_lMg&preview_file=dataset_anomalias.zip" 
